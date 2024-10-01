@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#D8CEF6"
+    tools:context=".NormalFragment">
+
+    <!-- 상단 이미지 -->
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="110dp"
+        app:srcCompat="@drawable/group_462"
+        android:layout_gravity="center_horizontal" />
+
+    <!-- 텍스트 뷰 -->
+    <TextView
+        android:id="@+id/normalrtxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/normalwhy"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_marginTop="16dp" />
+
+    <!-- 텍스트 입력 공간 -->
+    <EditText
+        android:id="@+id/editTextInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="여기에 텍스트를 입력하세요"
+        android:layout_marginTop="16dp" />
+
+    <!-- 버튼 -->
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="확인"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
