@@ -9,9 +9,9 @@
     <!-- 앱 로고 -->
     <ImageView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/um"
-        android:contentDescription="App Logo"/>
+        android:layout_height="741dp"
+        android:contentDescription="App Logo"
+        android:src="@drawable/spotify_logo_with_text" />
 
     <!-- 앱 이름 -->
     <TextView
