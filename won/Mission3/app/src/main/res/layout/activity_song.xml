@@ -4,40 +4,46 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@color/white">
 
     <ImageButton
         android:id="@+id/song_setting_ib"
-        android:layout_width="25dp"
-        android:layout_height="25dp"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
         android:layout_marginStart="20dp"
         android:layout_marginTop="40dp"
         android:background="@color/white"
         android:scaleType="fitXY"
         android:src="@drawable/baseline_arrow_down_24"
+        android:contentDescription="설정 열기"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
 
+
     <ImageButton
         android:id="@+id/song_down_ib"
-        android:layout_width="25dp"
-        android:layout_height="25dp"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="40dp"
         android:layout_marginEnd="15dp"
         android:background="@color/white"
         android:scaleType="fitXY"
         android:src="@drawable/baseline_instagram_24"
+        android:contentDescription="Instagram 공유하기"
+
         app:layout_constraintEnd_toEndOf="parent"
-        tools:layout_editor_absoluteY="40dp"
-        tools:ignore="MissingConstraints" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <ImageButton
         android:id="@+id/song_more_ib"
-        android:layout_width="25dp"
-        android:layout_height="25dp"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
         android:layout_marginTop="15dp"
         android:background="@color/white"
         android:scaleType="fitXY"
         android:src="@drawable/baseline_play_more24"
+        android:contentDescription="더 보기"
         app:layout_constraintEnd_toEndOf="@id/song_down_ib"
         app:layout_constraintStart_toStartOf="@id/song_down_ib"
         app:layout_constraintTop_toBottomOf="@id/song_down_ib"/>
@@ -90,16 +96,44 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
 
-    <ProgressBar
+
+    <TextView
+        android:id="@+id/songStartTimeTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="528dp"
+        android:text="00:00"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/songEndTimeTv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="376dp"
+        android:layout_marginEnd="24dp"
+        android:text="00:00"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/song_more_ib" />
+
+    <SeekBar
         android:id="@+id/song_progressbar_view"
-        style="?android:attr/progressBarStyleHorizontal"
-        android:layout_width="380dp"
+        android:layout_width="match_parent"
         android:layout_height="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@null"
+        android:max="100"
+        android:paddingStart="0dp"
+        android:paddingEnd="0dp"
+        android:progress="0"
+        android:progressBackgroundTint="#E6E6E6"
+        android:progressTint="#81BEF7"
+        android:thumb="@android:color/transparent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="548dp"
-        tools:ignore="MissingConstraints" />
-
+        app:layout_constraintTop_toBottomOf="@+id/song_album_text_tv" />
 
     <LinearLayout
         android:id="@+id/song_player_layout"
@@ -111,31 +145,11 @@
         app:layout_constraintTop_toBottomOf="@+id/song_progressbar_view">
 
         <ImageView
-            android:id="@+id/song_previous_iv"
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            android:layout_marginEnd="10dp"
-            android:src="@drawable/baseline_skip_previous_24"/>
-
-        <ImageView
-            android:id="@+id/song_miniplayer_iv"
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            android:src="@drawable/baseline_play_24"/>
-
-        <ImageView
             android:id="@+id/song_pause_iv"
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:src="@drawable/baseline_skip_next_24"
             android:visibility="gone"/>
-
-        <ImageView
-            android:id="@+id/song_next_iv"
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            android:layout_marginStart="10dp"
-            android:src="@drawable/baseline_skip_next_24"/>
 
 
     </LinearLayout>
@@ -144,42 +158,51 @@
         android:id="@+id/song_repeat_iv"
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:layout_marginEnd="10dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="7dp"
         android:src="@drawable/baseline_repeat_24"
-        app:layout_constraintBottom_toBottomOf="@id/song_player_layout"
-        app:layout_constraintEnd_toStartOf="@id/song_player_layout"
-        app:layout_constraintTop_toTopOf="@id/song_player_layout"/>
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/song_previous_iv"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/song_player_layout"
+        app:layout_constraintVertical_bias="0.093" />
 
     <ImageView
         android:id="@+id/song_random_iv"
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:layout_marginEnd="10dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="40dp"
         android:src="@drawable/baseline_random_music_24"
-        app:layout_constraintBottom_toBottomOf="@id/song_player_layout"
-        app:layout_constraintStart_toEndOf="@id/song_player_layout"
-        app:layout_constraintTop_toTopOf="@id/song_player_layout"/>
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/song_progressbar_view" />
 
     <ImageView
         android:id="@+id/song_related_iv"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:layout_marginEnd="10dp"
+        android:layout_marginBottom="8dp"
         android:src="@drawable/baseline_insert_link_24"
-        android:layout_marginBottom="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"/>
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent" />
 
     <ImageView
         android:id="@+id/song_insta_iv"
         android:layout_width="40dp"
         android:layout_height="40dp"
-        android:layout_marginEnd="100dp"
+        android:layout_marginStart="40dp"
         android:layout_marginTop="10dp"
+        android:layout_marginEnd="100dp"
         android:src="@drawable/baseline_volume_24"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@id/song_related_iv"
-        app:layout_constraintTop_toTopOf="@id/song_related_iv"/>
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/song_related_iv"
+        app:layout_constraintVertical_bias="0.0" />
 
     <ImageView
         android:id="@+id/song_list_iv"
@@ -187,9 +210,54 @@
         android:layout_height="40dp"
         android:layout_marginStart="100dp"
         android:layout_marginTop="10dp"
+        android:layout_marginEnd="40dp"
         android:src="@drawable/baseline_music_list_24"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@id/song_related_iv"
-        app:layout_constraintTop_toTopOf="@id/song_related_iv"/>
+        app:layout_constraintTop_toTopOf="@id/song_related_iv"
+        app:layout_constraintVertical_bias="0.0" />
 
+
+    <ImageView
+        android:id="@+id/song_previous_iv"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="5dp"
+        android:src="@drawable/baseline_skip_previous_24"
+        app:layout_constraintEnd_toStartOf="@+id/playPauseButton"
+        app:layout_constraintStart_toEndOf="@+id/song_repeat_iv"
+        app:layout_constraintTop_toBottomOf="@+id/song_progressbar_view" />
+
+    <ImageView
+        android:id="@+id/song_next_iv"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="4dp"
+        android:src="@drawable/baseline_skip_next_24"
+        app:layout_constraintEnd_toStartOf="@+id/song_random_iv"
+        app:layout_constraintTop_toBottomOf="@+id/song_progressbar_view" />
+
+    <ImageButton
+        android:id="@+id/playPauseButton"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_margin="16dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="5dp"
+        android:background="@null"
+        android:contentDescription="@string/play_pause"
+        android:padding="0dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/baseline_play_24"
+        app:layout_constraintEnd_toStartOf="@+id/song_next_iv"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/song_repeat_iv"
+        app:layout_constraintTop_toBottomOf="@+id/song_progressbar_view" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Mission3"
 include(":app")
+include(":app")
+include(":app")
  
