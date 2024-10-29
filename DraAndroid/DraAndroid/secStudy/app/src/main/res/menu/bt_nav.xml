@@ -1,0 +1,20 @@
+<!-- res/menu/bottom_nav_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_main"
+        android:title="main" />
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_edit"
+        android:title="edit" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_day"
+        android:title="day" />
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/ic_user"
+        android:title="User" />
+</menu>

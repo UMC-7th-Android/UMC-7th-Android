@@ -8,6 +8,7 @@ import android.os.Looper
 import android.view.View
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
+
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import java.util.*
@@ -15,6 +16,7 @@ import java.util.*
 class MainActivity : AppCompatActivity() {
     private lateinit var bottomNavigationView: BottomNavigationView
     private lateinit var timer: Timer
+
     private val handler = Handler(Looper.getMainLooper())
     private val slideInterval: Long = 3000 // 3초마다 슬라이드
 
@@ -54,7 +56,7 @@ class MainActivity : AppCompatActivity() {
 
         // 이미지 클릭 리스너 설정
         val imageView: ImageView = findViewById(R.id.listimage) // 이미지 뷰의 ID에 맞게 수정
-        imageView.setOnClickListener {
+
             // HomeActivity로 이동
             val intent = Intent(this, HomeActivity::class.java)
             startActivity(intent)

@@ -27,7 +27,6 @@ class ViewPagerAdapter2(
         return fragments[position]
     }
 
-    // 클릭 리스너를 Fragment에서 설정할 수 있도록 하는 메서드
     fun setupClickListeners(view: View) {
         view.findViewById<ImageView>(R.id.imageView5)?.setOnClickListener {
             onClick(0)

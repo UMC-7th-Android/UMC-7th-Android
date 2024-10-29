@@ -21,6 +21,7 @@
                 android:layout_height="wrap_content">
 
                 <!-- ViewPager2와 CircleIndicator3를 위한 상단 뷰 -->
+
                 <androidx.viewpager2.widget.ViewPager2
                     android:id="@+id/viewpager"
                     android:layout_width="match_parent"
@@ -28,6 +29,7 @@
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent" >
+
 
 
                 </androidx.viewpager2.widget.ViewPager2>
@@ -70,6 +72,7 @@
                     app:layout_constraintVertical_bias="1.0" />
 
                 <androidx.viewpager2.widget.ViewPager2
+
                     android:id="@+id/viewpager_fragment"
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
@@ -113,6 +116,7 @@
                     app:layout_constraintTop_toBottomOf="@id/viewpager_fragment"
                     app:layout_constraintVertical_bias="1.0" />
 
+
             </androidx.constraintlayout.widget.ConstraintLayout>
         </androidx.core.widget.NestedScrollView>
 
@@ -120,3 +124,4 @@
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </FrameLayout>
+

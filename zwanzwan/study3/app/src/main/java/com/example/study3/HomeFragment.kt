@@ -1,5 +1,6 @@
 package com.example.study3
 
+
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
@@ -10,6 +11,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
+
 import androidx.recyclerview.widget.RecyclerView
 import androidx.viewpager2.widget.ViewPager2
 import me.relex.circleindicator.CircleIndicator3
@@ -24,11 +26,13 @@ class HomeFragment : Fragment() {
     private var timer: Timer? = null
     private val slideInterval: Long = 3000
 
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
         val view = inflater.inflate(R.layout.fragment_home, container, false)
+
 
 
         topViewPager = view.findViewById(R.id.viewpager)
@@ -58,6 +62,7 @@ class HomeFragment : Fragment() {
         // RecyclerView에 외곽선(구분선) 추가
         val dividerItemDecoration = DividerItemDecoration(requireContext(), DividerItemDecoration.VERTICAL)
         recyclerView.addItemDecoration(dividerItemDecoration)
+
 
         // 자동 슬라이드 시작
         startAutoSlide()
@@ -120,3 +125,4 @@ class HomeFragment : Fragment() {
         }
     }
 }
+
