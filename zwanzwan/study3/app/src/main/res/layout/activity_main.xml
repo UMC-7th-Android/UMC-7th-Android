@@ -12,36 +12,8 @@
         android:layout_weight="1"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="31dp">
+        tools:layout_editor_absoluteY="0dp" />
 
-    </FrameLayout>
-
-    <ImageView
-        android:id="@+id/closebutton"
-        android:layout_width="21dp"
-        android:layout_height="20dp"
-        android:elevation="2dp"
-        android:layout_marginLeft="350dp"
-        android:layout_marginBottom="25dp"
-        android:foregroundGravity="right"
-        android:src="@drawable/btn_actionbar_close"
-        app:layout_constraintBottom_toBottomOf="@+id/imageViewbanner"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="@+id/imageViewbanner"
-        app:layout_constraintTop_toTopOf="@+id/imageViewbanner" />
-    <ImageView
-        android:id="@+id/imageViewbanner"
-        android:layout_width="match_parent"
-        android:paddingLeft="10dp"
-        android:paddingRight="10dp"
-        android:paddingBottom="5dp"
-        android:layout_height="50dp"
-        android:adjustViewBounds="true"
-        android:scaleType="centerCrop"
-        android:src="@drawable/img_home_viewpager_exp"
-        app:layout_constraintBottom_toTopOf="@+id/music_playback_bar"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
 
     <LinearLayout
         android:id="@+id/music_playback_bar"
@@ -65,21 +37,24 @@
         <ImageView
             android:layout_width="29dp"
             android:layout_height="29dp"
-            android:src="@drawable/btn_miniplayer_previous"
+            android:src="@drawable/before"
+
             android:layout_gravity="right"
             android:foregroundGravity="right"
             />
         <ImageView
             android:layout_width="29dp"
             android:layout_height="29dp"
-            android:src="@drawable/btn_miniplayer_play"
+            android:src="@drawable/start"
+
             android:layout_gravity="right"
             android:foregroundGravity="right"
             />
         <ImageView
             android:layout_width="29dp"
             android:layout_height="29dp"
-            android:src="@drawable/btn_miniplayer_next"
+            android:src="@drawable/next"
+
             android:layout_gravity="right"
             android:foregroundGravity="right"
             />
@@ -88,7 +63,8 @@
             android:id="@+id/listimage"
             android:layout_width="29dp"
             android:layout_height="29dp"
-            android:src="@drawable/btn_miniplayer_go_list"
+            android:src="@drawable/songs"
+
             android:layout_gravity="right"
             android:foregroundGravity="right"
             />

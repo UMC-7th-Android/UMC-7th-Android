@@ -8,8 +8,7 @@ import android.os.Looper
 import android.view.View
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.isGone
-import androidx.core.view.isInvisible
+
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import java.util.*
@@ -17,8 +16,7 @@ import java.util.*
 class MainActivity : AppCompatActivity() {
     private lateinit var bottomNavigationView: BottomNavigationView
     private lateinit var timer: Timer
-    private lateinit var imageView: ImageView
-    private lateinit var imagView1 : ImageView
+
     private val handler = Handler(Looper.getMainLooper())
     private val slideInterval: Long = 3000 // 3초마다 슬라이드
 
@@ -26,14 +24,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        imageView=findViewById(R.id.closebutton)
-        imagView1=findViewById(R.id.imageViewbanner)
-
-        imageView.setOnClickListener{
-            imagView1.setTransitionVisibility(View.GONE);
-
-        }
 
         // BottomNavigationView 설정
         bottomNavigationView = findViewById(R.id.bottom_navigation_view)
@@ -65,8 +55,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         // 이미지 클릭 리스너 설정
-        val imageView3: ImageView = findViewById(R.id.listimage) // 이미지 뷰의 ID에 맞게 수정
-        imageView3.setOnClickListener {
+        val imageView: ImageView = findViewById(R.id.listimage) // 이미지 뷰의 ID에 맞게 수정
+
             // HomeActivity로 이동
             val intent = Intent(this, HomeActivity::class.java)
             startActivity(intent)

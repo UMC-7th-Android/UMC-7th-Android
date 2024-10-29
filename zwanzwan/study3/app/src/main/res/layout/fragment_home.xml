@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_height="match_parent"
     android:layout_width="match_parent">
-
-    <androidx.constraintlayout.widget.ConstraintLayout
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-        <FrameLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            />
 
         <androidx.core.widget.NestedScrollView
             android:id="@+id/scroll_view"
@@ -31,11 +26,10 @@
                     android:id="@+id/viewpager"
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    android:layout_marginTop="4dp"
                     app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintHorizontal_bias="0.0"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toTopOf="parent">
+                    app:layout_constraintTop_toTopOf="parent" >
+
 
 
                 </androidx.viewpager2.widget.ViewPager2>
@@ -61,40 +55,24 @@
                     android:text="오늘 발매 음악"
                     android:textColor="@color/black"
                     android:textStyle="bold"
+                    app:layout_constraintBottom_toTopOf="@+id/viewpager_fragment"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintHorizontal_bias="0.0"
                     app:layout_constraintStart_toStartOf="parent"
-                    tools:ignore="MissingConstraints"
-                    tools:layout_editor_absoluteY="233dp" />
+                    tools:ignore="MissingConstraints" />
 
-                <!--<HorizontalScrollView
-                    android:layout_width="match_parent"
-                    android:layout_height="30dp"
-                    app:layout_constraintEnd_toEndOf="parent"
-                    tools:ignore="MissingConstraints">
+                <ImageView
+                    android:layout_width="15dp"
+                    android:layout_height="33dp"
+                    android:scaleX="-1"
+                    android:src="@drawable/arrow"
+                    app:layout_constraintBottom_toTopOf="@+id/viewpager_fragment"
+                    app:layout_constraintStart_toEndOf="@+id/textView4"
+                    app:layout_constraintTop_toBottomOf="@+id/indicator"
+                    app:layout_constraintVertical_bias="1.0" />
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:src="drawable/v1"/>
+                <androidx.viewpager2.widget.ViewPager2
 
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:src="drawable/v2"/>
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:src="drawable/v3"/>
-
-                    <ImageView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:src="drawable/v4"/>
-                </HorizontalScrollView>-->
-
-                <!--<androidx.viewpager2.widget.ViewPager2
                     android:id="@+id/viewpager_fragment"
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
@@ -108,44 +86,42 @@
                     app:layout_constraintTop_toBottomOf="@id/indicator" >
 
 
-                </androidx.viewpager2.widget.ViewPager2>-->
+                </androidx.viewpager2.widget.ViewPager2>
 
-                <ImageView
-                    android:layout_width="15dp"
-                    android:layout_height="33dp"
-                    android:scaleX="-1"
-                    android:src="@drawable/arrow"
-                    tools:ignore="MissingConstraints"
-                    tools:layout_editor_absoluteX="97dp"
-                    tools:layout_editor_absoluteY="233dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+
+                    android:background="@color/gray_color"
+                    android:text="오디오로 에너지 충전"
+                    android:textColor="@color/black"
+                    android:paddingLeft="15dp"
+                    android:textSize="20dp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toTopOf="@+id/recyclerview"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/viewpager_fragment" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerview"
+                    android:layout_width="421dp"
+                    android:layout_height="297dp"
+                    android:layout_marginTop="8dp"
+                    android:padding="16dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/viewpager_fragment"
+                    app:layout_constraintVertical_bias="1.0" />
+
 
             </androidx.constraintlayout.widget.ConstraintLayout>
         </androidx.core.widget.NestedScrollView>
 
-        <androidx.recyclerview.widget.RecyclerView
-            android:id="@+id/recyclerview"
-            android:layout_width="418dp"
-            android:layout_height="208dp"
-            android:padding="16dp"
-
-            tools:layout_editor_absoluteX="0dp"
-            tools:layout_editor_absoluteY="527dp"
-            tools:ignore="MissingConstraints" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-
-            android:background="@color/gray_color"
-            android:paddingLeft="15dp"
-            android:text="오디오로 에너지 충전"
-            android:textColor="@color/black"
-            android:textSize="20dp"
-            android:textStyle="bold"
-            tools:layout_editor_absoluteX="1dp"
-            tools:layout_editor_absoluteY="493dp" />
-
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
-</androidx.core.widget.NestedScrollView>
+</FrameLayout>
+

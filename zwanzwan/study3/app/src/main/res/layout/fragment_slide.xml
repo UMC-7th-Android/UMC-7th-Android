@@ -3,18 +3,21 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="420dp"
+    android:layout_height="200dp"
+
    >
 
     <ImageView
         android:id="@+id/imageView4"
-        android:layout_width="408dp"
-        android:layout_height="420dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
         android:adjustViewBounds="true"
         android:scaleType="centerCrop"
         android:src="@drawable/slide"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteX="102dp"
+
         tools:layout_editor_absoluteY="0dp" />
 
     <TextView
