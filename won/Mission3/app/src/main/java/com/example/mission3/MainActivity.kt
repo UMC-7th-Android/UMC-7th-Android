@@ -1,35 +1,62 @@
 package com.example.mission3
 
+import android.content.Intent
+import android.graphics.Color
 import android.os.Build
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.content.ContextCompat
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
+import androidx.core.content.ContextCompat.startActivity
 import com.example.mission3.databinding.ActivityMainBinding
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
 class MainActivity : AppCompatActivity() {
 
     private lateinit var bottomNavi: BottomNavigationView
+    private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        binding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
 
-        // 상태 표시줄 색상을 흰색으로 설정
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            window.statusBarColor = ContextCompat.getColor(this, android.R.color.white)
-        }
-
-        bottomNavi = findViewById(R.id.bottom_navi)
-
-        // 초기 프래그먼트 설정
+        // HomeFragment가 기본 프래그먼트로 표시되도록 설정
         if (savedInstanceState == null) {
             supportFragmentManager.beginTransaction()
                 .replace(R.id.main, HomeFragment())
                 .commit()
+        }
+
+        // 상태 표시줄 색상을 흰색으로 설정
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            window.statusBarColor = Color.parseColor("#FFFFFF")
+        }
+
+        bottomNavi = binding.bottomNavi // 바인딩 객체를 통해 BottomNavigationView 참조
+
+        // Song 객체 생성
+        val song = Song(
+            title = "Supernatural",
+            singer = "NewJeans",
+            second = 0,
+            playTime = 191,
+            isPlaying = false
+        )
+
+        // mainPlayerCl을 바인딩을 통해 참조
+        val mainPlayerCl = binding.mainPlayerCl
+
+        // mainPlayerCl 눌렀을 때 SongActivity로 이동
+        mainPlayerCl.setOnClickListener {
+            val intent = Intent(this, SongActivity::class.java)
+
+            // putExtra를 사용해서 데이터값들을 보내줌
+            intent.putExtra("title", song.title)
+            intent.putExtra("singer", song.singer)
+            intent.putExtra("second", song.second)
+            intent.putExtra("playTime", song.playTime)
+            intent.putExtra("isPlaying", song.isPlaying)
+
+            startActivity(intent)
         }
 
         // BottomNavigationView 아이템 선택 리스너 설정
@@ -42,28 +69,24 @@ class MainActivity : AppCompatActivity() {
                     true
                 }
                 R.id.action_audio -> {
-                    // FragmentAudio 구현 필요
                     supportFragmentManager.beginTransaction()
                         .replace(R.id.main, AudioFrag())
                         .commit()
                     true
                 }
                 R.id.action_search -> {
-                    // FragmentSearch 구현 필요
                     supportFragmentManager.beginTransaction()
                         .replace(R.id.main, SearchFrag())
                         .commit()
                     true
                 }
                 R.id.action_mymusic -> {
-                    // FragmentMyMusic 구현 필요
                     supportFragmentManager.beginTransaction()
                         .replace(R.id.main, MyMusicFrag())
                         .commit()
                     true
                 }
                 R.id.action_menu -> {
-                    // FragmentMenu 구현 필요
                     supportFragmentManager.beginTransaction()
                         .replace(R.id.main, MenuFrag())
                         .commit()
@@ -73,5 +96,5 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
-
 }
+

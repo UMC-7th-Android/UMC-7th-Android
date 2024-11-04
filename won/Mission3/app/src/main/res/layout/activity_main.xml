@@ -7,7 +7,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <!-- Fragment가 교체될 컨테이너 -->
     <FrameLayout
         android:id="@+id/main"
         android:layout_width="0dp"
@@ -17,9 +16,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
-
-
-    <!-- BottomNavigationView -->
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottom_navi"
         android:layout_width="0dp"
@@ -31,4 +27,12 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:menu="@menu/menu" />
+
+    <LinearLayout
+        android:id="@+id/mainPlayerCl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@id/bottom_navi"
+        android:background="#E6E6E6" />
 </androidx.constraintlayout.widget.ConstraintLayout>
