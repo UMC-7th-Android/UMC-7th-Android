@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/homenv"
+        android:title="@string/btNavHome" />
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/searchnv"
+        android:title="@string/btNavSearch" />
+    <item
+        android:id="@+id/menu_lib"
+        android:icon="@drawable/libnv"
+        android:title="@string/btNavlib" />
+    <item
+        android:id="@+id/menu_me"
+        android:icon="@drawable/ic_bottom_locker_no_select"
+        android:title="@string/menv" />
+
+
+</menu>
