@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-pngs-28:\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-pngs-28:\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\layout_board_fragment.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\layout\\board_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\layout_chat_fragment.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\layout\\chat_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable_post_img.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\drawable\\post_img.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\layout_campus_pick_fragment.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\layout\\campus_pick_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\layout_home_fragment.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\layout\\home_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable_message.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\drawable\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-pngs-28:\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable_location.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\drawable\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable_label.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\drawable\\label.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable_notes.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\drawable\\notes.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\layout_schedule_fragment.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\layout\\schedule_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-pngs-28:\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable_titmetable.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\drawable\\titmetable.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\color_bottom_nav_item_color.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\color\\bottom_nav_item_color.xml"
+    },
+    {
+        "merged": "com.example.week6.app-debug-32:/layout_board_fragment.xml.flat",
+        "source": "com.example.week6.app-main-34:/layout/board_fragment.xml"
+    },
+    {
+        "merged": "com.example.week6.app-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.week6.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-pngs-28:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\layout_item_board.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\layout\\item_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable_homescreen.jpg.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\drawable\\homescreen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-pngs-28:\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\drawable_home.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.week6.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

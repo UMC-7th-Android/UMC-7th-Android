@@ -1,0 +1,5 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@android:color/black" android:state_checked="true" /> <!-- 선택 시 검은색 -->
+    <item android:color="@android:color/darker_gray" android:state_checked="false" /> <!-- 비선택 시 회색 -->
+</selector>
+
