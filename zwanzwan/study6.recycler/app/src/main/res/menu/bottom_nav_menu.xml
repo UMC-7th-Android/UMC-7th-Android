@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_music"
+        android:icon="@drawable/btn_miniplayer_go_list"
+        android:title="Music" />
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="home"
+        />
+
+    <item
+        android:id="@+id/somelse"
+        android:icon="@drawable/ic_somelse"
+        android:title="etc"
+        />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        android:title="search"
+        />
+
+</menu>
