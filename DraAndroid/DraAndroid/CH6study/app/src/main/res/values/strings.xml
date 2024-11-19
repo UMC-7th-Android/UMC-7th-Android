@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CH5study</string>
+    <string name="btNavHome">Home</string>
+    <string name="btNavSearch">Search</string>
+    <string name="btNavlib">Library</string>
+    <string name="menv">MyPage</string>
+    <string name="home_pannel_title">Dra 님을 위한\n믹스&amp;추천</string>
+    <string name="home_pannel_album_info">총 15곡 2024.10.15</string>
+    <string name="home_pannel_album_title_01">My Last Stand</string>
+    <string name="home_pannel_album_singer_01">로비 위코프(Robbie Wyckoff)</string>
+    <string name="home_today_music_title">오늘 발매 음악</string>
+    <string name="home_today_music_total">종합</string>
+    <string name="home_today_music_domestic">국내</string>
+    <string name="home_today_music_oversea">해외</string>
+    <string name="home_daily_music_title">매일 들어도 좋은 팟캐스트</string>
+    <string name="home_video_music_title">비디오 콜랙션</string>
+    <string name="home_ceo_info">(주)드림어스컴퍼니 사업자 정보</string>
+
+    <!-- 곡 제목 -->
+    <string name="song_solo_pride">Solo의 자부심</string>
+    <string name="song_tt">T.T</string>
+    <string name="song_already_sad_love">이미 슬픈 사랑</string>
+    <string name="song_zero">Zero</string>
+    <string name="song_patience_anger">참아야하느니라 (욱하는 성질 때문에)</string>
+    <string name="song_escapade">일탈</string>
+    <string name="song_mixed_dreams">동상이몽(同常異夢)</string>
+    <string name="song_wish">바램</string>
+    <string name="song_love_is_also">사랑이라는 것 또한</string>
+    <string name="song_we_say_yes">We Say Yes</string>
+    <string name="song_already_sad_love_mr">이미 슬픈 사랑 (MR)</string>
+    <string name="song_escapade_mr">일탈 (MR)</string>
+
+
+    <string name="singer">야다(YADA)</string>
+
+
+
+    <string name="detail_album_info">Album Information</string>
+</resources>
