@@ -1,0 +1,3 @@
+com.example.songapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

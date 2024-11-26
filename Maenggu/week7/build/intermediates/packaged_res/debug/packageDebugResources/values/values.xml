@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SongApp</string>
+    <string name="back_button_description">뒤로 가기 버튼</string>
+    <string name="song_activity_open_description">노래 화면 열기</string>
+    <style name="Base.Theme.SongApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SongApp" parent="Base.Theme.SongApp"/>
+</resources>

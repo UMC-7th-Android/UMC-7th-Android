@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\layout_activity_song.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\layout\\activity_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\layout_fragment_serch.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\layout\\fragment_serch.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_nugu_btn_skip_next_32.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\nugu_btn_skip_next_32.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_ic_bottom_home_no_select.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\ic_bottom_home_no_select.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\layout_fragment_explore.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\layout\\fragment_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_ic_my_like_on.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\ic_my_like_on.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_banner2.jpg.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\banner2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_bignath.jpg.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\bignath.jpg"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_img_album_exp4.jpg.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\img_album_exp4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_ic_bottom_my_no_select.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\ic_bottom_my_no_select.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\layout_item_song.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\layout\\item_song.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_nugu_btn_play_32.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\nugu_btn_play_32.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_ziont.jpg.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\ziont.jpg"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_nugu_btn_skip_previous_32.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\nugu_btn_skip_previous_32.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\layout_item_banner.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\layout\\item_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_ic_bottom_look_no_select.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\ic_bottom_look_no_select.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_yerin.jpg.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\yerin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_ic_bottom_locker_no_select.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\ic_bottom_locker_no_select.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_the_lazy.jpg.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\the_lazy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_banner1.jpg.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\banner1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_bigbang.jpg.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\bigbang.jpg"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.songapp-debug-32:/layout_activity_main.xml.flat",
+        "source": "com.example.songapp-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_nugu_btn_down.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\nugu_btn_down.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_ic_my_like_off.png.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\ic_my_like_off.png"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_songbar.jpg.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\songbar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_bruno.webp.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\bruno.webp"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-debug-32:\\drawable_banner3.jpg.flat",
+        "source": "C:\\Users\\juny2\\.gradle\\daemon\\8.7\\com.example.songapp-main-34:\\drawable\\banner3.jpg"
+    }
+]
