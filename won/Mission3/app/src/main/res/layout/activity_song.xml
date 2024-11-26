@@ -48,6 +48,19 @@
         app:layout_constraintStart_toStartOf="@id/song_down_ib"
         app:layout_constraintTop_toBottomOf="@id/song_down_ib"/>
 
+
+    <ImageButton
+        android:id="@+id/favorite_button"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:src="@drawable/baseline_favorite_border_24"
+        app:layout_constraintBottom_toBottomOf="@+id/song_title_tv"
+        app:layout_constraintEnd_toStartOf="@+id/song_title_tv"
+        app:layout_constraintHorizontal_bias="0.717"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/song_title_tv" />
+
     <TextView
         android:id="@+id/song_title_tv"
         android:layout_width="wrap_content"
@@ -165,7 +178,8 @@
         app:layout_constraintEnd_toStartOf="@+id/song_previous_iv"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@id/song_player_layout"
-        app:layout_constraintVertical_bias="0.093" />
+        app:layout_constraintVertical_bias="0.093"
+        tools:ignore="UnknownId" />
 
     <ImageView
         android:id="@+id/song_random_iv"
@@ -220,25 +234,31 @@
         app:layout_constraintVertical_bias="0.0" />
 
 
-    <ImageView
-        android:id="@+id/song_previous_iv"
+    <ImageButton
+        android:id="@+id/skip_previous"
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:layout_marginStart="9dp"
+        android:layout_margin="16dp"
+        android:layout_marginStart="5dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="5dp"
+        android:background="@null"
+        android:scaleType="fitCenter"
         android:src="@drawable/baseline_skip_previous_24"
         app:layout_constraintEnd_toStartOf="@+id/playPauseButton"
+        app:layout_constraintHorizontal_bias="0.666"
         app:layout_constraintStart_toEndOf="@+id/song_repeat_iv"
         app:layout_constraintTop_toBottomOf="@+id/song_progressbar_view" />
 
-    <ImageView
+    <ImageButton
         android:id="@+id/song_next_iv"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="4dp"
+        android:background="@null"
         android:src="@drawable/baseline_skip_next_24"
+        android:scaleType="fitCenter"
         app:layout_constraintEnd_toStartOf="@+id/song_random_iv"
         app:layout_constraintTop_toBottomOf="@+id/song_progressbar_view" />
 
