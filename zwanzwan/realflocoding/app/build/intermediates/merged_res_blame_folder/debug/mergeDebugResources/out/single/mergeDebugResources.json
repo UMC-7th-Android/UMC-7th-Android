@@ -1,0 +1,806 @@
+[
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\navigation_moblie_navigation.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\navigation\\moblie_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_player_eq_off.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_player_eq_off.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_album_image3.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\album_image3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_player_play.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_player_play.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_main_btm_look_selector.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\main_btm_look_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_player_more.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_player_more.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_v3.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\v3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_like.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_arrow_more.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_arrow_more.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_bottom_my_select.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_bottom_my_select.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_fragment_slide.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\fragment_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\font_font.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\font\\font.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_checkmark.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\checkmark.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_album_image2.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\album_image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_first_album_default.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_first_album_default.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_insta.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\insta.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_button_background_black_color.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\button_background_black_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_bottom_look_select.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_bottom_look_select.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_main_ticket.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_main_ticket.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_love.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\love.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_miniplayer_next.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_miniplayer_next.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_titlebar_close.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_titlebar_close.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_search.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_album_exp6.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_album_exp6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_album_exp.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_album_exp.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_arrow.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_miniplayer_go_list.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_miniplayer_go_list.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_page_slide1.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\page_slide1.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_miniplayer_play.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_miniplayer_play.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_poppin.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\poppin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_actionbar_close.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_actionbar_close.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_item_music.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\item_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_fragment_look_chip_off_background.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\fragment_look_chip_off_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_bottom_search_select.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_bottom_search_select.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_playlist_select_on.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_playlist_select_on.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_pretender.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\pretender.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_my_like_off.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_my_like_off.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_main_youtube_btn.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_main_youtube_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_main_facebook_btn.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_main_facebook_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_main_setting.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_main_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_v2_fragment.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\v2_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_frame1.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\frame1.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_flo.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\flo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_v4_fragment.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\v4_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_wtf.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\wtf.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_flo_logo.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_flo_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_fragment_slide1.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\fragment_slide1.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_fragment_look_chart_background.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\fragment_look_chart_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_v4.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\v4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_bottom_locker_select.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_bottom_locker_select.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_setting_phone.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_setting_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_player_unlike_off.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_player_unlike_off.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_main_twitter.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_main_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_stack.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_stack.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_album_lp.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_album_lp.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_start.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\start.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_kakao_icon.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\kakao_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_input_password_off.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_input_password_off.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_slide.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\slide.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_actionbar_instagram.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_actionbar_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_main_youtube.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_main_youtube.png"
+    },
+    {
+        "merged": "com.example.realflocoding.app-debug-53:/layout_fragment_stack.xml.flat",
+        "source": "com.example.realflocoding.app-main-55:/layout/fragment_stack.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_slide1.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\slide1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_main_arrow_more.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_main_arrow_more.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_player_go_list.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_player_go_list.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_main_btm_my_selector.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\main_btm_my_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_toggle_on.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_toggle_on.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_fragment_slide2.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\fragment_slide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_button_background_gray_color.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\button_background_gray_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_browse_arrow_right.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_browse_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_splash.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_main_mike.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_main_mike.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btm_color_selector.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btm_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_seekbar_seekbar1.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\seekbar_seekbar1.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_album_exp3.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_album_exp3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_textbox_close.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_textbox_close.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_my_like_on.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_my_like_on.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_slide2.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\slide2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_main_instagram.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_main_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_main_twitter_btn.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_main_twitter_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_bottom_home_no_select.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_bottom_home_no_select.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_fragment_slide3.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\fragment_slide3.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_bok.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\bok.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_stackplay.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\stackplay.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_leave.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\leave.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_fragment_look_chip_on_background.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\fragment_look_chip_on_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_main_facebook.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_main_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_album_image1.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\album_image1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_main_btm_color_selector.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\main_btm_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_apple.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_fragment_home1.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\fragment_home1.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ico_20_logo_tid_white.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ico_20_logo_tid_white.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_splash.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_jenre_exp_2.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_jenre_exp_2.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_icon_browse_arrow_right.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\icon_browse_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_video_exp.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_video_exp.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_perfect.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\perfect.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_nugu_btn_down.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\nugu_btn_down.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_recyclerview_item.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\recyclerview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_blue_radius.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\blue_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_songs.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\songs.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_fragment_stack.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\fragment_stack.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_main_instagram_btn.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_main_instagram_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_button_background_white_color.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\button_background_white_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_dream.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\dream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_nugu_btn_pause_32.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\nugu_btn_pause_32.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_bottom_home_select.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_bottom_home_select.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_jenre_exp_3.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_jenre_exp_3.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_fragment_somelse.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\fragment_somelse.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_slide4.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\slide4.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_bottom_my_no_select.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_bottom_my_no_select.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_main_btm_search_selector.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\main_btm_search_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_miniplayer_previous.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_miniplayer_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_tablayout_color.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\tablayout_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_textview_background_radius.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\textview_background_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_player_related.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_player_related.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_bar.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\bar.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_check.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_off.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\off.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_naver_44.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\naver_44.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_jenre_exp_1.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_jenre_exp_1.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_fragment_slide4.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\fragment_slide4.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_home_viewpager_exp.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_home_viewpager_exp.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_album_exp2.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_album_exp2.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\font_protest.ttf.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\font\\protest.ttf"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_bottom_locker_no_select.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_bottom_locker_no_select.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_input_password.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_input_password.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_playlist_select_off.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_playlist_select_off.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_album.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\album.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_arrow_black.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_arrow_black.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_slide3.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\slide3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_nugu_btn_skip_next_32.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\nugu_btn_skip_next_32.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_miniplay_mvpause.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_miniplay_mvpause.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_page_slide4.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\page_slide4.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_popit.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\popit.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_divider.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_v3_fragment.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\v3_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_v1_fragment.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\v1_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_dialog_list.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\dialog_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_lemon.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\lemon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_default_4_x_1.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_default_4_x_1.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_miniplay_pause.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_miniplay_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_album_exp4.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_album_exp4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_nugu_btn_random_inactive.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\nugu_btn_random_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_main_btm_home_selector.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\main_btm_home_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_page_slide3.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\page_slide3.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_player_setting.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_player_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_frame.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_nugu_btn_play_32.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\nugu_btn_play_32.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_seekbar_seekbar1_thumb.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\seekbar_seekbar1_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_bottom_look_no_select.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_bottom_look_no_select.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_player_unlike_on.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_player_unlike_on.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_discovery_banner_aos.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\discovery_banner_aos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\font_customize.ttf.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\font\\customize.ttf"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_apple_44.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\apple_44.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_nugu.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_nugu.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_page_slide2.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\page_slide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_bottom_search_no_select.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_bottom_search_no_select.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_album_image5.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\album_image5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_v2.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\v2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_before.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\before.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_miniplay_mvplay.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_miniplay_mvplay.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_album_image4.jpeg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\album_image4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_ic_somelse.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\ic_somelse.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_panel_play_large.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_panel_play_large.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_home_viewpager_exp2.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_home_viewpager_exp2.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_nugu_btn_repeat_inactive.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\nugu_btn_repeat_inactive.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_btn_toggle_off.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\btn_toggle_off.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_v1.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\v1.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_album_exp5.jpg.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_album_exp5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_widget_black_play.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\widget_black_play.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_img_potcast_exp.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\img_potcast_exp.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_kakako_44.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\kakako_44.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_next.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\drawable_nugu_btn_skip_previous_32.png.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\drawable\\nugu_btn_skip_previous_32.png"
+    },
+    {
+        "merged": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-debug-53:\\layout_toast_custom.xml.flat",
+        "source": "C:\\Users\\wndhk\\.gradle\\daemon\\8.7\\com.example.realflocoding.app-main-55:\\layout\\toast_custom.xml"
+    }
+]
