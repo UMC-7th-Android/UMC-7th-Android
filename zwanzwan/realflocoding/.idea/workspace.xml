@@ -25,6 +25,16 @@
           <theme>@style/Theme.Realflocoding</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/bottom_sheet_chart.xml">
+        <config>
+          <theme>@style/Theme.Realflocoding</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/chart_item.xml">
+        <config>
+          <theme>@style/Theme.Realflocoding</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/dialog_list.xml">
         <config>
           <theme>@style/Theme.Realflocoding</theme>
@@ -343,6 +353,8 @@
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/realflocoding/Album.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/realflocoding/AlbumPagerAdapter.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/realflocoding/AppDatabase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/realflocoding/ChartAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/realflocoding/ChartDialogFragment.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/realflocoding/DAO.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/realflocoding/ListAdapter.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/realflocoding/LoginActivity.kt" afterDir="false" />
@@ -400,6 +412,7 @@
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_titlebar_close.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_toggle_off.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_toggle_on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_background.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_background_black_color.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_background_gray_color.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_background_white_color.xml" afterDir="false" />
@@ -483,6 +496,7 @@
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/popit.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/poppin.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/pretender.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_background.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/search.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/seekbar_seekbar1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/seekbar_seekbar1_thumb.xml" afterDir="false" />
@@ -510,6 +524,8 @@
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/bottom_sheet_chart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/chart_item.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_list.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_search.xml" afterDir="false" />
@@ -682,8 +698,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="resourceFile" />
         <option value="Kotlin Interface" />
+        <option value="resourceFile" />
         <option value="layoutResourceFile" />
         <option value="Kotlin Class" />
       </list>

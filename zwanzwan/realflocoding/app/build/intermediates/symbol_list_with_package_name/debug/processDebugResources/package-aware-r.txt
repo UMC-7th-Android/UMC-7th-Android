@@ -3114,6 +3114,7 @@ drawable btn_textbox_close
 drawable btn_titlebar_close
 drawable btn_toggle_off
 drawable btn_toggle_on
+drawable button_background
 drawable button_background_black_color
 drawable button_background_gray_color
 drawable button_background_white_color
@@ -3296,6 +3297,7 @@ drawable perfect
 drawable popit
 drawable poppin
 drawable pretender
+drawable rounded_background
 drawable search
 drawable seekbar_seekbar1
 drawable seekbar_seekbar1_thumb
@@ -3411,7 +3413,6 @@ id animateToStart
 id antiClockwise
 id anticipate
 id arc
-id arrow_list
 id artistName
 id artistNameTextView
 id asConfigured
@@ -3435,11 +3436,15 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btn_audio
+id btn_chart
+id btn_genre
+id btn_mood
 id btn_next
 id btn_previous
-id button
-id button2
-id button3
+id btn_situation
+id btn_video
+id buttonGroup
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3453,6 +3458,11 @@ id center_vertical
 id chain
 id chain2
 id chains
+id chartItemText
+id chartLabel
+id chartRecyclerView
+id chartSubtitle
+id chartTitle
 id checkImage
 id checkbox
 id checked
@@ -3607,6 +3617,7 @@ id home_video_music_title_tv
 id home_viewpager_exp_02_iv
 id honorRequest
 id horizontal
+id horizontalScrollView
 id horizontal_only
 id icon
 id icon_group
@@ -3656,7 +3667,6 @@ id line1
 id line3
 id linear
 id listMode
-id listView
 id list_item
 id listimage
 id locale
@@ -3920,7 +3930,6 @@ id textView18
 id textView19
 id textView2
 id textView20
-id textView21
 id textView22
 id textView3
 id textView4
@@ -3943,6 +3952,7 @@ id time
 id timeTextView
 id title
 id titleDividerNoCustom
+id titleText
 id title_template
 id toast_icon
 id toast_message
@@ -3971,6 +3981,7 @@ id usernameEditText
 id usernameInputLayout
 id vertical
 id vertical_only
+id viewAllButton
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -4108,6 +4119,8 @@ layout activity_home
 layout activity_login
 layout activity_main
 layout activity_signup
+layout bottom_sheet_chart
+layout chart_item
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

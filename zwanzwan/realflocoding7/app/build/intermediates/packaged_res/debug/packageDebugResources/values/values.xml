@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="gray_color">#E1E1E3</color>
+    <color name="select_color">#2319DC</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">real.flocoding</string>
+    <style name="Base.Theme.Realflocoding" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Realflocoding" parent="Base.Theme.Realflocoding"/>
+</resources>
