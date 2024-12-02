@@ -1,12 +1,15 @@
 package com.example.mission3
 
+import android.content.Context.MODE_PRIVATE
+import android.content.SharedPreferences
 import android.content.res.ColorStateList
 import android.graphics.Color
 import android.os.Build
 import android.os.Bundle
 import android.os.CountDownTimer
-import android.util.Log
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.edit
 import com.example.mission3.databinding.ActivitySongBinding
 
 class SongActivity : AppCompatActivity() {
@@ -14,14 +17,26 @@ class SongActivity : AppCompatActivity() {
     private lateinit var song: Song
     private var countDownTimer: CountDownTimer? = null
     private var isPlaying = false
+    private var currentTime = 0 // 현재 재생 시간
+    private lateinit var sharedPreferences: SharedPreferences
+    private var isFavorite = false
+    private var songList: List<Song> = listOf() // 곡 리스트
+    private var currentSongIndex: Int = 0 // 현재 곡 인덱스
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivitySongBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        sharedPreferences = getSharedPreferences("MyMusicApp", MODE_PRIVATE)
+
+        initSongList()
         initSong()
         setPlayer(song)
+
+        // 즐겨찾기 상태 로드
+        loadFavoriteStatus()
+        updateFavoriteButton()
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             window.statusBarColor = Color.parseColor("#FFFFFF")
@@ -40,21 +55,40 @@ class SongActivity : AppCompatActivity() {
                 playSong()
             }
         }
+
+        // 즐겨찾기 버튼 클릭 리스너
+        binding.favoriteButton.setOnClickListener {
+            isFavorite = !isFavorite
+            updateFavoriteButton()
+            saveFavoriteStatus()
+        }
+
+        // 이전 곡 버튼 클릭 리스너
+        binding.skipPrevious.setOnClickListener {
+            goToPreviousSong()
+        }
+
+        // 다음 곡 버튼 클릭 리스너
+        binding.songNextIv.setOnClickListener {
+            goToNextSong()
+        }
+    }
+
+    private fun initSongList() {
+        // 곡 리스트를 불러오기 (예: DB에서 불러오기)
+        songList = listOf(
+            Song("Supernatural", "NewJeans", 0, 191, false, imageRes = R.drawable.newjeans),
+            Song("Power", "G-DRAGON", 0, 143, false, imageRes = R.drawable.power),
+            Song("APT.", "로제(ROSE) & Bruno Mars", 0, 170, false, imageRes = R.drawable.apt)
+        )
+
+        // SharedPreferences에서 현재 곡 인덱스 불러오기
+        currentSongIndex = sharedPreferences.getInt("current_song_index", 0)
     }
 
     private fun initSong() {
-        if (intent.hasExtra("title") && intent.hasExtra("singer")) {
-            song = Song(
-                title = intent.getStringExtra("title") ?: return,
-                singer = intent.getStringExtra("singer") ?: return,
-                second = intent.getIntExtra("second", 0),
-                playTime = intent.getIntExtra("playTime", 0),
-                isPlaying = intent.getBooleanExtra("isPlaying", false)
-            )
-        } else {
-            Log.e("SongActivity", "Intent extras are missing.")
-            song = Song("Unknown Title", "Unknown Singer", 0, 191, false)
-        }
+        // 곡 정보를 리스트에서 가져오기
+        song = songList[currentSongIndex]
     }
 
     private fun setPlayer(song: Song) {
@@ -63,6 +97,9 @@ class SongActivity : AppCompatActivity() {
         binding.songStartTimeTv.text = String.format("%02d:%02d", song.second / 60, song.second % 60)
         binding.songEndTimeTv.text = String.format("%02d:%02d", song.playTime / 60, song.playTime % 60)
 
+        // 곡 이미지 설정 (새로 추가)
+        binding.songAlbumIv.setImageResource(song.imageRes)
+        
         binding.songProgressbarView.max = song.playTime * 1000
         binding.songProgressbarView.progress = song.second * 1000
 
@@ -109,6 +146,66 @@ class SongActivity : AppCompatActivity() {
         setPlayerStatus(isPlaying)
     }
 
+    // 즐겨찾기 버튼 상태 업데이트
+    private fun updateFavoriteButton() {
+        if (isFavorite) {
+            binding.favoriteButton.setImageResource(R.drawable.baseline_favorite_24) // 하트 채운 아이콘
+        } else {
+            binding.favoriteButton.setImageResource(R.drawable.baseline_favorite_border_24) // 하트 비어있는 아이콘
+        }
+    }
+
+    // 즐겨찾기 상태 저장
+    private fun saveFavoriteStatus() {
+        // 곡 제목과 ID를 결합하여 고유 키 생성
+        val key = "${song.title}-${song.singer}" // 예시로 제목과 가수명을 결합
+        sharedPreferences.edit {
+            putBoolean(key, isFavorite) // 고유한 키로 즐겨찾기 상태 저장
+        }
+    }
+
+    // 즐겨찾기 상태 로드
+    private fun loadFavoriteStatus() {
+        // 곡 제목과 ID를 결합하여 고유 키 생성
+        val key = "${song.title}-${song.singer}" // 예시로 제목과 가수명을 결합
+        isFavorite = sharedPreferences.getBoolean(key, false)
+    }
+
+
+    private fun goToPreviousSong() {
+        if (currentSongIndex > 0) {
+            currentSongIndex--
+            song = songList[currentSongIndex]
+            setPlayer(song)
+            stopSong() // 곡 전환 시 이전 곡 멈추기
+            playSong() // 새로운 곡 시작
+
+            // SharedPreferences에 현재 곡 인덱스 저장
+            sharedPreferences.edit {
+                putInt("current_song_index", currentSongIndex)
+            }
+        }
+    }
+
+    private fun goToNextSong() {
+        if (currentSongIndex < songList.size - 1) {
+            currentSongIndex++
+            song = songList[currentSongIndex]
+            setPlayer(song)
+            stopSong() // 곡 전환 시 이전 곡 멈추기
+            playSong() // 새로운 곡 시작
+
+            // SharedPreferences에 현재 곡 인덱스 저장
+            sharedPreferences.edit {
+                putInt("current_song_index", currentSongIndex)
+            }
+        }
+    }
+
+    private fun stopSong() {
+        // 곡 멈추기 (임시로 노래 재생 없이 처리)
+    }
+
     override fun onDestroy() {
         super.onDestroy()
         countDownTimer?.cancel()
@@ -119,5 +216,4 @@ class SongActivity : AppCompatActivity() {
         return true
     }
 }
-
 

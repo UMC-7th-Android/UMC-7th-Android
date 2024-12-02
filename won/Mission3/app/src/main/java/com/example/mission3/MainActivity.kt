@@ -1,23 +1,36 @@
 package com.example.mission3
 
 import android.content.Intent
-import android.graphics.Color
-import android.os.Build
+import android.content.SharedPreferences
 import android.os.Bundle
+import android.view.View
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.content.ContextCompat.startActivity
+import androidx.lifecycle.lifecycleScope
 import com.example.mission3.databinding.ActivityMainBinding
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {
-
-    private lateinit var bottomNavi: BottomNavigationView
     private lateinit var binding: ActivityMainBinding
+    private lateinit var sharedPreferences: SharedPreferences
+    private lateinit var bottomNavi: BottomNavigationView
+    private lateinit var dbHelper: SongDatabaseHelper
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        sharedPreferences = getSharedPreferences("MusicApp", MODE_PRIVATE)
+
+        // SongDatabaseHelper 인스턴스 초기화
+        dbHelper = SongDatabaseHelper(this)
+
+        // DB에 더미 데이터 삽입
+        lifecycleScope.launch {
+            insertDummySongs()
+        }
 
         // HomeFragment가 기본 프래그먼트로 표시되도록 설정
         if (savedInstanceState == null) {
@@ -26,38 +39,10 @@ class MainActivity : AppCompatActivity() {
                 .commit()
         }
 
-        // 상태 표시줄 색상을 흰색으로 설정
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            window.statusBarColor = Color.parseColor("#FFFFFF")
-        }
+        // 상태 표시줄 색상 설정
+        window.statusBarColor = resources.getColor(android.R.color.white, theme)
 
-        bottomNavi = binding.bottomNavi // 바인딩 객체를 통해 BottomNavigationView 참조
-
-        // Song 객체 생성
-        val song = Song(
-            title = "Supernatural",
-            singer = "NewJeans",
-            second = 0,
-            playTime = 191,
-            isPlaying = false
-        )
-
-        // mainPlayerCl을 바인딩을 통해 참조
-        val mainPlayerCl = binding.mainPlayerCl
-
-        // mainPlayerCl 눌렀을 때 SongActivity로 이동
-        mainPlayerCl.setOnClickListener {
-            val intent = Intent(this, SongActivity::class.java)
-
-            // putExtra를 사용해서 데이터값들을 보내줌
-            intent.putExtra("title", song.title)
-            intent.putExtra("singer", song.singer)
-            intent.putExtra("second", song.second)
-            intent.putExtra("playTime", song.playTime)
-            intent.putExtra("isPlaying", song.isPlaying)
-
-            startActivity(intent)
-        }
+        bottomNavi = binding.bottomNavi
 
         // BottomNavigationView 아이템 선택 리스너 설정
         bottomNavi.setOnItemSelectedListener { item ->
@@ -82,7 +67,7 @@ class MainActivity : AppCompatActivity() {
                 }
                 R.id.action_mymusic -> {
                     supportFragmentManager.beginTransaction()
-                        .replace(R.id.main, MyMusicFrag())
+                        .replace(R.id.main, MyMusicFragment())
                         .commit()
                     true
                 }
@@ -95,6 +80,37 @@ class MainActivity : AppCompatActivity() {
                 else -> false
             }
         }
+
+        // mainPlayerCl을 클릭했을 때 SongActivity로 이동
+        binding.mainPlayerCl.setOnClickListener {
+            // songId를 얻어와서 SongActivity로 전달
+            val songId = getSongIdFromPreferences()
+            val intent = Intent(this, SongActivity::class.java)
+            intent.putExtra("songId", songId)
+            startActivity(intent)
+        }
+    }
+
+    // DB에 더미 데이터 삽입
+    private suspend fun insertDummySongs() {
+        val song1 = Song(id = 1, title = "Supernatural", singer = "NewJeans", second = 0, playTime = 191, isPlaying = false, isLike = false)
+        val song2 = Song(id = 2, title = "Power", singer = "G-DRAGON", second = 0, playTime = 143, isPlaying = false, isLike = false)
+        val song3 = Song(id=3, title="APT.", singer = "로제(ROSE) & Bruno Mars", second = 0, playTime = 170, isPlaying = false, isLike = false)
+
+        // 더미 데이터 삽입 (DB 작업)
+        dbHelper.insertSong(song1)
+        dbHelper.insertSong(song2)
+    }
+
+    // SharedPreferences에 songId 저장
+    private fun saveSongId(songId: Int) {
+        val editor = sharedPreferences.edit()
+        editor.putInt("songId", songId)
+        editor.apply()
+    }
+
+    // SharedPreferences에서 songId 가져오기
+    private fun getSongIdFromPreferences(): Int {
+        return sharedPreferences.getInt("songId", 0)  // 기본값으로 0 반환
     }
 }
-
