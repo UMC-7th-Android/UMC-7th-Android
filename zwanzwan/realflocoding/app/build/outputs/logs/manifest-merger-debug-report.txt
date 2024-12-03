@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:2:1-32:12
-INJECTED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:2:1-35:12
 MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\wndhk\.gradle\caches\transforms-4\8ea1af62bf2e3c9dabc0791ab2ac6369\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
 MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\wndhk\.gradle\caches\transforms-4\4bad60a2ca44f6246ff1e8fff6a57e53\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common:2.8.4] C:\Users\wndhk\.gradle\caches\transforms-4\66d9ebb25737ced8de55f364b16a8a25\transformed\navigation-common-2.8.4\AndroidManifest.xml:17:1-22:12
@@ -53,16 +53,16 @@ MERGED from [androidx.window:window:1.0.0] C:\Users\wndhk\.gradle\caches\transfo
 MERGED from [androidx.core:core:1.15.0] C:\Users\wndhk\.gradle\caches\transforms-4\607ae06ad50e402ee8297ebdf1648827\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\wndhk\.gradle\caches\transforms-4\c4b6b08ef83e6caa996399d3429e7634\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\wndhk\.gradle\caches\transforms-4\69aad367d1d5741d0f658321d1019408\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7fbbab8263ec17d82b68b1e5feca20c\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\72a9f735cc89fbe389c9c5f62e8350ec\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\da3ea9cdf45149c6e55dd1d8fc98a65a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\5b06c813887b2629bf5cf24f837d9ccd\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\4645985b5b4fc460241875ceacf84381\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7b81d539b1e0f13d65edefeec9f8380\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wndhk\.gradle\caches\transforms-4\90c56753ce79294d5830dffb6ec4a6a4\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\wndhk\.gradle\caches\transforms-4\ba84258105563031707408eb6daef0fd\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\9713e0c951f7e102ff287151e96215cc\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wndhk\.gradle\caches\transforms-4\5b0a03c70e92c088ee705c4dc5cd780a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7b81d539b1e0f13d65edefeec9f8380\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7fbbab8263ec17d82b68b1e5feca20c\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\72a9f735cc89fbe389c9c5f62e8350ec\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\d8928803479137b539dce4289abbce88\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\38f964dd1279a727ecc88a999aba84a3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\204bbbf35aa0d26f02ba1dfbd1b0d209\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -77,9 +77,13 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\wndhk\.
 		INJECTED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:5:5-30:19
-INJECTED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:5:5-30:19
+ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:6:5-33:19
+INJECTED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:6:5-33:19
 MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\wndhk\.gradle\caches\transforms-4\8ea1af62bf2e3c9dabc0791ab2ac6369\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
 MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\wndhk\.gradle\caches\transforms-4\8ea1af62bf2e3c9dabc0791ab2ac6369\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\wndhk\.gradle\caches\transforms-4\168b68c42dd97817181942b2bdb6a922\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
@@ -105,55 +109,59 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wn
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.15.0] C:\Users\wndhk\.gradle\caches\transforms-4\607ae06ad50e402ee8297ebdf1648827\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:13:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:8:9-54
-	android:roundIcon
 		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:14:9-54
 	tools:targetApi
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:17:9-29
 	android:icon
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:13:9-51
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:16:9-51
+	android:networkSecurityConfig
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:8:9-69
 	android:dataExtractionRules
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:7:9-65
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:10:9-65
+	android:usesCleartextTraffic
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:7:9-44
 activity#com.example.realflocoding.SplashActivity
-ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:16:9-23:20
+ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:19:9-26:20
 	android:exported
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:18:13-36
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:17:13-43
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:20:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:19:13-22:29
+ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:24:27-74
 activity#com.example.realflocoding.MainActivity
-ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:25:9-49
+ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:28:9-49
 	android:name
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:25:19-47
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:28:19-47
 activity#com.example.realflocoding.HomeActivity
-ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:26:9-49
+ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:29:9-49
 	android:name
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:26:19-47
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:29:19-47
 activity#com.example.realflocoding.LoginActivity
-ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:27:9-28:20
+ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:30:9-31:20
 	android:name
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:27:19-48
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:30:19-48
 activity#com.example.realflocoding.SignUpActivity
-ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:29:9-61
+ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:32:9-61
 	android:name
-		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:29:19-49
+		ADDED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml:32:19-49
 uses-sdk
 INJECTED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\wndhk\AndroidStudioProjects\realflocoding\app\src\main\AndroidManifest.xml
@@ -256,12 +264,18 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\wndhk\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\wndhk\.gradle\caches\transforms-4\c4b6b08ef83e6caa996399d3429e7634\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\wndhk\.gradle\caches\transforms-4\69aad367d1d5741d0f658321d1019408\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] C:\Users\wndhk\.gradle\caches\transforms-4\69aad367d1d5741d0f658321d1019408\transformed\lifecycle-livedata-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7fbbab8263ec17d82b68b1e5feca20c\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7fbbab8263ec17d82b68b1e5feca20c\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\72a9f735cc89fbe389c9c5f62e8350ec\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\72a9f735cc89fbe389c9c5f62e8350ec\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\da3ea9cdf45149c6e55dd1d8fc98a65a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\da3ea9cdf45149c6e55dd1d8fc98a65a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\5b06c813887b2629bf5cf24f837d9ccd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\5b06c813887b2629bf5cf24f837d9ccd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\4645985b5b4fc460241875ceacf84381\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\4645985b5b4fc460241875ceacf84381\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7b81d539b1e0f13d65edefeec9f8380\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7b81d539b1e0f13d65edefeec9f8380\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wndhk\.gradle\caches\transforms-4\90c56753ce79294d5830dffb6ec4a6a4\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\wndhk\.gradle\caches\transforms-4\90c56753ce79294d5830dffb6ec4a6a4\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\wndhk\.gradle\caches\transforms-4\ba84258105563031707408eb6daef0fd\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
@@ -270,12 +284,6 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wndhk\.gradle\ca
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\9713e0c951f7e102ff287151e96215cc\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wndhk\.gradle\caches\transforms-4\5b0a03c70e92c088ee705c4dc5cd780a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\wndhk\.gradle\caches\transforms-4\5b0a03c70e92c088ee705c4dc5cd780a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7b81d539b1e0f13d65edefeec9f8380\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7b81d539b1e0f13d65edefeec9f8380\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7fbbab8263ec17d82b68b1e5feca20c\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\a7fbbab8263ec17d82b68b1e5feca20c\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\72a9f735cc89fbe389c9c5f62e8350ec\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\wndhk\.gradle\caches\transforms-4\72a9f735cc89fbe389c9c5f62e8350ec\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\d8928803479137b539dce4289abbce88\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\d8928803479137b539dce4289abbce88\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\wndhk\.gradle\caches\transforms-4\38f964dd1279a727ecc88a999aba84a3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
