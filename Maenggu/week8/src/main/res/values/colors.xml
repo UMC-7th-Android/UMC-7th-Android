@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <!-- 텍스트 및 배경색 -->
+
+    <color name="gray">#B0B0B0</color> <!-- 사용된 gray 색상 -->
+    <color name="light_gray">#D3D3D3</color> <!-- 더 연한 회색 옵션 -->
+
+    <!-- 버튼 및 강조 색상 -->
+    <color name="button_background">#6200EE</color> <!-- purple_500 동일 -->
+    <color name="button_text">#FFFFFF</color> <!-- 버튼 텍스트 색상 -->
+
+    <!-- 기타 색상 (필요 시 추가 가능) -->
+    <color name="error_red">#FF0000</color> <!-- 오류 메시지용 -->
+    <color name="success_green">#4CAF50</color> <!-- 성공 메시지용 -->
+</resources>
