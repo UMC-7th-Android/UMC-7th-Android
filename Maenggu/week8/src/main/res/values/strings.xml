@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="song_activity_open_description">Open Song Activity</string>
+</resources>
